@@ -1,7 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Oscar Medina</h1>
 <h3 align="center">Computer systems engineer - Full-Stack Developer | JavaScript | Typescript | Kotlin | Angular | Node.js | Nest.js</h3>
-<p align="center"> <img src="" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
