@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **oscar.medina.dev@gmail.com**
   
-- ⚡ Fun fact **Call me as Dybala**
+- ⚡ Fun fact **Call me as Dybala Dev**
 
 </td>
 <td width="50%" align="center">
